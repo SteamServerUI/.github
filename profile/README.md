@@ -121,7 +121,7 @@ gantt
 |------------|-------------|---------|
 | [SteamServerUI](https://github.com/SteamServerUI/SteamServerUI) | Universal Steam server platform (v6) | 🚧 Active Development |
 | [StationeersServerUI](https://github.com/SteamServerUI/StationeersServerUI) | Dedicated Stationeers solution (v5) | ✅ LTS Support |
-| [steamserverui.github.io](https://github.com/SteamServerUI/steamserverui.github.io) | Runfile gallery | 📚 Maintained |
+| [Runfile Gallery](https://steamserverui.github.io/runfiles/) | Runfile gallery | 📚 Maintained |
 
 ---
 
