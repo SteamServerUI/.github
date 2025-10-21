@@ -10,7 +10,7 @@
 
 ## 🚀 From Stationeers to Steam: The Great Servervolution
 
-Once upon a time, [@JacksonTheMaster](https://github.com/JacksonTheMaster) built **SteamServerUI** (SSUI), a sleek, retro-themed UI to tame the wild beast that a Stationeers dedicated server is. It was glorious—automatic SteamCMD setups, one-click controls, Discord bots, and a backup system smarter than your average space engineer. 
+Once upon a time, [@JacksonTheMaster](https://github.com/JacksonTheMaster) built **StationeersServerUI** (SSUI), a sleek, retro-themed UI to tame the wild beast that a Stationeers dedicated server is. It was glorious—automatic SteamCMD setups, one-click controls, Discord bots, and a backup system smarter than your average space engineer. 
 
 But then, [@mitoskalandiel](https://github.com/mitoskalandiel) dropped a galaxy-sized idea: *Why stop at Stationeers?* Why not make SSUI the ultimate overlord of **any** Steam server? 
 
